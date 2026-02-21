@@ -64,6 +64,19 @@ Expansion into micro-investments and digital asset diversification
     -> Order_Details_1.xlsx
     -> Sales_target_1.xlsx
 
+
+## 💡 Product Strategy Recommendations
+- Introduce group savings model
+- Expand into micro-investment funds
+- Diversify into secure digital assets
+- Partnership-driven reward ecosystem
+- Integrate tax-saving investment options (NPS)
+  
+<img width="440" height="440" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/63794cae-0619-40cc-a745-d0be434bc5c7" />
+
+<img width="481" height="507" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/32b0237f-804f-44d6-82fe-64c223f9ec76" />
+
+
 📎 Outcome
 
 Demonstrates ability to:
